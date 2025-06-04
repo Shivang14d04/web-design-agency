@@ -27,7 +27,7 @@ git clone https://github.com/Shivang14d04/web-design-agency.git
 
 ## Built With
 
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
  
